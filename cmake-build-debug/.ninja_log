@@ -1,0 +1,9 @@
+# ninja log v6
+712	814	1734548552572393871	CS3_Project	f426d361a9e0bb83
+5	72	7562522557093420	build.ninja	a74bdaa0416021d8
+45	2028	7562522583504613	CMakeFiles/CS3_Project.dir/Player.cpp.obj	8f60d87138f90fb7
+12	2053	7562522583167331	CMakeFiles/CS3_Project.dir/Card.cpp.obj	9d1ac4b40b0af4be
+25	2288	7562522583298512	CMakeFiles/CS3_Project.dir/main.cpp.obj	30bc737bae3e0cbe
+36	4780	7562522583399235	CMakeFiles/CS3_Project.dir/Deck.cpp.obj	8cce3826f62980a3
+55	5473	7562522583600301	CMakeFiles/CS3_Project.dir/Game.cpp.obj	d7772b630b59715b
+5474	8018	7562522637787123	CS3_Project.exe	740af4fb6289c2a6
